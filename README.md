@@ -67,9 +67,8 @@ A travel booking web application built with modern frontend technologies.
 
 ## 📫 Contact
 
-- Email: your-email@example.com
-- LinkedIn: https://linkedin.com/in/your-profile
-- Portfolio: https://your-portfolio.com
+- Email: bulbuljadam04@gmail.com
+- LinkedIn: https://www.linkedin.com/in/bulbul-jadam
 
 ---
 
